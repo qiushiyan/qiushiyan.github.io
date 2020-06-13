@@ -6,3 +6,6 @@ Some of my notebook projects are listsed here.
 - [Time Series Analysis with R](https://enixam.github.io/fpp/)
 
 - [R for Data Science](https://enixam.github.io/rfordatascience/)
+
+
+Visit my blogdown personal site at https://qiushi.rbind.io/
