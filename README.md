@@ -1,6 +1,8 @@
 
 Some of my notebook projects are listsed here. 
 
+- [Mathematical Notes for Machine Learning](https://enixam.github.io/math-foundations/)
+
 - [Tidy Text Mining with R](https://enixam.github.io/tidy-text-mining/)
 
 - [Time Series Analysis with R](https://enixam.github.io/fpp/)
