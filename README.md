@@ -7,8 +7,6 @@ Some of my notebook projects are listsed here.
 
 - [Time Series Analysis with R](https://enixam.github.io/fpp/)
 
-- [Data Manipulation with SQL](https://enixam.github.io/data-manipulation-sql/) (in-progress)
-
 - [R for Data Science](https://enixam.github.io/rfordatascience/) (partly chinese) (in-progress)
 
 
